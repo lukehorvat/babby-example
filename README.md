@@ -1,6 +1,6 @@
 # babby-example
 
-A proof-of-concept example that demonstrates the use of __advanced__ Babel plugins.
+A proof-of-concept example that demonstrates use of [Babby](https://github.com/lukehorvat/babby) to enable __advanced__ Babel plugins.
 
 To set up, execute the following commands:
 
